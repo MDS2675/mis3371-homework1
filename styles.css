@@ -1,0 +1,21 @@
+body {
+    background-color: #DCB8A3;
+    font-family: Optima, Garamond, serif ;
+}
+
+#main-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.logo {
+    width: 120px;
+    height: auto;
+}
+
+.site-title {
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
